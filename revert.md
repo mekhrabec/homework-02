@@ -1,0 +1,2 @@
+salam
+git status
